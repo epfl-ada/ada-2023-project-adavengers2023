@@ -12,6 +12,8 @@ The question we will try to answer in this part is what adjectives are used to d
 
 Does the frequency with which women appear as protagonists change over time? 
 
+
+## References
 1.Learning Latent Personas of Film Characters
 David Bamman, Brendan O'Connor, and Noah A. Smith
 ACL 2013, Sofia, Bulgaria, August 2013 

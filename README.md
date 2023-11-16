@@ -3,8 +3,6 @@ ada-2023-project-adavengers2023 created by GitHub Classroom
 
 During this project we will use the CMU Movie Summary Corpus available at http://www.cs.cmu.edu/~ark/personas/. 
 
-The analysis we will run focus on gender representation in movies. To do so we have one main approach which focus on analyzing the difference in vocabulary using to describe women and men in movies summaries. Then we will run further analysis on the evolution of the representation of women in movies over time. 
-
 ## Title: Exploring the Evolution of Female Characters in Cinema Across Different Eras with the CMU Movie Summary Corpus. 
 
 ## Abstract

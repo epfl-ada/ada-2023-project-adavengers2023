@@ -136,7 +136,7 @@ Ariane : Question 3, Web interface and turning plots into interactive plots
 
 ### Questions for TAs
 
-Should we use the frequency or find the first mentioned name to define protagonists?
+Should we use the frequency or find the first mentioned name in the summary to define protagonists?
 
 
 ## References

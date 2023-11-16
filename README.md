@@ -38,7 +38,7 @@ This study is fueled by the increasing societal focus on gender representation i
 
 **Data Preprocessing:**
 
-Clean the text data by removing punctuation, numbers, and meaningless filler words (like "the," "is," "and," etc.). Tokenize the text, splitting it into individual words. remove stopwords. Part-of-speech tagging, using natural language processing tools (NLTK was used) to identify the grammatical parts of each word, particularly adjectives.
+Clean the text data by removing punctuation, numbers, and meaningless filler words (like "the," "is," "and," etc.). Tokenize the text, splitting it into individual words, and removing stopwords. Part-of-speech tagging, using natural language processing tools (NLTK was used) to identify the grammatical parts of each word, particularly adjectives.
 
 **Extracting :**
 

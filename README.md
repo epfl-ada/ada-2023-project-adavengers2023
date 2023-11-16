@@ -46,7 +46,7 @@ Extract adjectives/profession/identities/relationship status based on the result
 
 **Building Word Embeddings:**
 
-Use the pre-trained word embedding model Word2Vec) to obtain vector representations for each target word (including adj. in the whole corpus and the word representing gender such as "he," "she," "man," "woman,").
+Use the pre-trained word embedding model Word2Vec to obtain vector representations for each target word (including adj. in the whole corpus and the word representing gender such as "he," "she," "man," "woman,").
 
 **Calculating Distances:**
 

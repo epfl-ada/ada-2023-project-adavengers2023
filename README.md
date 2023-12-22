@@ -13,6 +13,8 @@ To achieve this, we will investigate the differences in commonly used adjectives
 
 This study is fueled by the increasing societal focus on gender representation in media. By scrutinizing historical and character-level data, we aim to reveal trends in the depiction of women in film, thereby mirroring broader societal shifts.
 
+The data story can be found here : https://ariane-augustoni.github.io/Women_and_movies
+
 ### Research Questions
 
 1. **Female Character Identities in Synopses:**

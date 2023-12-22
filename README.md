@@ -104,15 +104,11 @@ Revise and improve data story
 
 ### Organization within the Team
 
-Heling: Question 1, Discovery data analysis
-
-Shu: Question 1, Discovery data analysis
-
-Caroline: Question 2, Harmonizing Data story
-
-Irem : Question 3, Harmonizing Data story
-
-Ariane : Question 3, Web interface and turning plots into interactive plots  
+Ariane: Data cleaning, statistical analysis on sentiment analysis, website organization, writing data story
+Irem: adjective analysis, analyzing female characters and protagonists over the years, word clouds for analyzing the change in adjectives used for female characters representation over years, data story and website organisation
+Shu: Sentiment analysis of adjectives
+Heling: Adjectives extraction, analysis and visualization, Occupation analysis and visualization
+Caroline: Initial data cleaning, analyzing women in different genres and women playing different character types, ethical considerations, writing data story
 
 
 ## References

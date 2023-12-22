@@ -105,9 +105,13 @@ Revise and improve data story
 ### Organization within the Team
 
 Ariane: Data cleaning, statistical analysis on sentiment analysis, website organization, writing data story
+
 Irem: adjective analysis, analyzing female characters and protagonists over the years, word clouds for analyzing the change in adjectives used for female characters representation over years, data story and website organisation
+
 Shu: Sentiment analysis of adjectives
+
 Heling: Adjectives extraction, analysis and visualization, Occupation analysis and visualization
+
 Caroline: Initial data cleaning, analyzing women in different genres and women playing different character types, ethical considerations, writing data story
 
 

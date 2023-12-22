@@ -82,20 +82,6 @@ Calculate the rate of female protagonists movies among all movies and examine th
 
 **Role Evolution Analysis**: Examine how the representation of females in movies has changed over the years.  
 
-### 4. Correlation Between Female Characters and Box Office Success
-
-**Additional Data Required**: Box office data for a wide range of movies.
-
-As we only have data on box office revenue for about 10% of the movies, we considered removing this question, as it is not the main part of our research. However, we have decided to keep it here for now in case we want to expand our analysis in the end.
-
-**Analysis Steps**:
-
-**Data Correlation**: Analyze the correlation between the presence/role of female characters and box office earnings.
-
-**Historical Context Analysis**: Examine how this correlation varies over different historical periods.
-
-**Statistical Analysis**: Apply statistical methods to validate findings and understand the extent of the influence.
-
 ### Proposed Timeline
 
 **November 17-23:** 

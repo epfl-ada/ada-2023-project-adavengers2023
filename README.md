@@ -23,9 +23,9 @@ This study is fueled by the increasing societal focus on gender representation i
     - What are ratios of female characters in different genres?
     - What character types do female characters have most often (using the tv tropes)?
 3. **Evolution of Female Protagonists:**
-    - How have the adjectives representing women changed over time?
     - Did the amount of movies starring female protagonists change over time?
     - Were there specific periods of significant change linked to historical events?
+    - How have the adjectives representing women changed over time? 
 4. **Additional question: Female Characters and Box Office Success:**
     - Is there a link between female character rate and box office performance? Which types of female characters historically correlate with higher box office success?
     - How do box office trends reflect societal and cultural attitudes towards female characters?

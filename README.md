@@ -23,12 +23,9 @@ This study is fueled by the increasing societal focus on gender representation i
     - What are ratios of female characters in different genres?
     - What character types do female characters have most often (using the tv tropes)?
 3. **Evolution of Female Protagonists:**
-    - How have the adjectives representing women changed over time?
     - Did the amount of movies starring female protagonists change over time?
     - Were there specific periods of significant change linked to historical events?
-4. **Additional question: Female Characters and Box Office Success:**
-    - Is there a link between female character rate and box office performance? Which types of female characters historically correlate with higher box office success?
-    - How do box office trends reflect societal and cultural attitudes towards female characters?
+    - How have the adjectives representing women changed over time? 
 
 ### Methods
 
@@ -80,27 +77,10 @@ Analyze the semantic content of these adjectives to see if they conform to tradi
 
 ### 3. Evolution of Female Protagonists Over Time
 
-**Role Evolution Analysis**: Define who is the protagonist (either by frequency or by first appearance in the summary). Examine changes in the types of roles, frequency, and portrayal of female protagonists over time.
+**Proportion Analysis:** Define who is the protagonist according to the frequency in the movies. Examine changes in the frequency of the female characters over time. 
+Calculate the rate of female protagonists movies among all movies and examine the changes. 
 
-**Historical Correlation**: Correlate changes with historical events.
-
-**Trend Analysis**: Use statistical methods (regression analysis) to identify significant shifts or trends.
-
-**Proportion Analysis:** Calculate the rate of female protagonists movies among all same era movies and examine the changes.
-
-### 4. Correlation Between Female Characters and Box Office Success
-
-**Additional Data Required**: Box office data for a wide range of movies.
-
-As we only have data on box office revenue for about 10% of the movies, we considered removing this question, as it is not the main part of our research. However, we have decided to keep it here for now in case we want to expand our analysis in the end.
-
-**Analysis Steps**:
-
-**Data Correlation**: Analyze the correlation between the presence/role of female characters and box office earnings.
-
-**Historical Context Analysis**: Examine how this correlation varies over different historical periods.
-
-**Statistical Analysis**: Apply statistical methods to validate findings and understand the extent of the influence.
+**Role Evolution Analysis**: Examine how the representation of females in movies has changed over the years.  
 
 ### Proposed Timeline
 
@@ -131,10 +111,6 @@ Caroline: Question 2, Harmonizing Data story
 Irem : Question 3, Harmonizing Data story
 
 Ariane : Question 3, Web interface and turning plots into interactive plots  
-
-### Questions for TAs
-
-Should we use the frequency or find the first mentioned name in the summary to define protagonists?
 
 
 ## References

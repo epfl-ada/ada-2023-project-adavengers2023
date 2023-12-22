@@ -80,13 +80,10 @@ Analyze the semantic content of these adjectives to see if they conform to tradi
 
 ### 3. Evolution of Female Protagonists Over Time
 
-**Role Evolution Analysis**: Define who is the protagonist (either by frequency or by first appearance in the summary). Examine changes in the types of roles, frequency, and portrayal of female protagonists over time.
+**Proportion Analysis:** Define who is the protagonist according to the frequency in the movies. Examine changes in the frequency of the female characters over time. 
+Calculate the rate of female protagonists movies among all movies and examine the changes. 
 
-**Historical Correlation**: Correlate changes with historical events.
-
-**Trend Analysis**: Use statistical methods (regression analysis) to identify significant shifts or trends.
-
-**Proportion Analysis:** Calculate the rate of female protagonists movies among all same era movies and examine the changes.
+**Role Evolution Analysis**: Examine how the representation of females in movies has changed over the years.  
 
 ### 4. Correlation Between Female Characters and Box Office Success
 
